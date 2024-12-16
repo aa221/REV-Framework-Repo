@@ -1,4 +1,7 @@
 # REV-Framework-Repo
+REV:
+Reasoner, Expert, Verifier. 
+
 A framework for improved code generation using LLMS.
 
 ## Abstract
